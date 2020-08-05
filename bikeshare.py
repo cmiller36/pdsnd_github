@@ -33,7 +33,7 @@ def get_filters():
     while True :
         month = input('Which month would you like to explore? Please choose from the following: january, february, march, april, may, june, or  all\n').lower()
         if month.lower() not in MONTHS:
-            print("Please select a different month or type - all.")
+            print("Please select a different month or type: all.")
             continue
         else:
             break
@@ -42,7 +42,7 @@ def get_filters():
     while True :
         day = input('Which day of the week?\n').lower()
         if day.lower() not in DAYS:
-            print("Please try again or type - all.")
+            print("Please try again or type: all.")
             continue
         else:
             break
