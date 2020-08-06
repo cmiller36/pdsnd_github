@@ -17,6 +17,13 @@ To complete this project, the following software was required:
 * Text editor: Atom.
 * A terminal application (Terminal on Mac).
 
+<<<<<<< HEAD
 
 ### Credits
 In this project, we used data provided by [Motivate](https://www.motivateco.com/).
+||||||| 5b9988c
+=======
+
+### Credits
+In this project, we used data provided by [Motivate](https://www.motivateco.com/)
+>>>>>>> documentation
